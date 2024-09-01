@@ -3,5 +3,5 @@ This repo which have all the question I am going to solve still from now that is
 # Arsh ki DSA sheet let's see how long we can go.
 01/09/24(Day one)-
           Find duplicate Number,<br/>
-          Sort Colors,<br/>
-          Remove Duplicates from Sorted array
+          &nbsp; &nbsp; &nbsp; &nbsp; Sort Colors,<br/>
+          &nbsp; &nbsp; &nbsp; &nbsp; Remove Duplicates from Sorted array
